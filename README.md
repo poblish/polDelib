@@ -1,4 +1,4 @@
-polDelib
+A last gasp for online political deliberation?
 ========
 
-Online Political Deliberation
+[Web version](http://poblish.github.io/polDelib) of my slides from 2013
